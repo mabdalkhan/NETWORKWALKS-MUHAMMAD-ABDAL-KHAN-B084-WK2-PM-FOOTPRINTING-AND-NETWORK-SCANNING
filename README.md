@@ -28,8 +28,6 @@ This repository documents my Week 2 project work covering **Phase 1 (Reconnaissa
 - [Risk summary](#risk-summary)
 - [Recommendations](#recommendations)
 - [Repository structure](#repository-structure)
-- [Disclaimer](#disclaimer)
-
 ---
 
 ## PM1 - Footprinting with multiple Kali tools
